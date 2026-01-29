@@ -1,9 +1,9 @@
 export const profile = {
     name: "Jerickson Abreu",
     role: "Software Developer",
-    email: "contact@example.com", // Placeholder
-    linkedin: "https://linkedin.com/in/jericksonabreu", // Placeholder
-    github: "https://github.com/jericksonabreu", // Placeholder
+    email: "jericksonabreu@gmail.com",
+    linkedin: "https://linkedin.com/in/jerickson-abreu",
+    github: "https://github.com/jeriaj9",
     summary: "Around 10 years of Software Development experience. Proven track record developing web and mobile apps for clients ranging from small businesses to some of the largest companies in the Dominican Republic. Collaborative team player focused on optimal solutions and high-performance work.",
     skills: {
         languages: ["JavaScript", "TypeScript", "C#", "Java", "SQL"],

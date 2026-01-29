@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 
 function App() {
     return (
-        <div className="min-h-screen max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-24">
+        <div className="min-h-screen w-full max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 py-12 space-y-24 text-slate-900">
             <Hero />
             <Experience />
             <Skills />
